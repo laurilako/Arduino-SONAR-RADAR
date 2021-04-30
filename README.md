@@ -1,6 +1,7 @@
 # Arduino-SONAR-RADAR
 
-Project repository for course Principles of Digital Fabrication
+Project repository for course **Principles of Digital Fabrication**
+
 Project team: Aleksanteri, Aleksi, Konsta and Kaarlo
 
 
