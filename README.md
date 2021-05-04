@@ -4,6 +4,8 @@ Project repository for course **Principles of Digital Fabrication**
 
 Project team: Aleksanteri, Aleksi, Konsta and Kaarlo
 
+https://www.arduino.cc/
+Visual map created with processing3 https://processing.org/download/
 
 Introductory report available at https://www.digifab-oulu.com/2021/03/16/introductory-report-sonar-system/
 
