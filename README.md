@@ -6,7 +6,7 @@ Project team: Aleksanteri, Aleksi, Konsta and Kaarlo
 
 
 Introductory report available at https://www.digifab-oulu.com/2021/03/16/introductory-report-sonar-system/
-Summary report for the project 
+Summary report for the project https://www.digifab-oulu.com/2021/05/03/radar-sonar-project-summary-report/
 
 Learning diaries for each week of the project:
 - for first weeks (11 and 12) at https://www.digifab-oulu.com/2021/04/06/learning-diaries-radar-sonar-system/
